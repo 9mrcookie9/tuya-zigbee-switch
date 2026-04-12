@@ -1941,6 +1941,33 @@ MODULE_TUYA_COMMON_TS0002:
   info: Needs pinout confirmation
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/32
   store: null
+MODULE_TUYA_COMMON_TS0003:
+  human_name: Tuya common 3-gang
+  category: module
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS0003
+  stock_manufacturer_name: _TZ3210_aksyshpw
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0003_switch_module_1
+  override_z2m_device: null
+  tuya_module: ZT3L
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: aksyshpw;TS0003-C;BA0u;LC0;SB4u;RC2;SB5u;RC3;SB6u;RC4;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 43642
+  build: yes
+  status: in_progress
+  info: Needs pinout confirmation
+  threads: null
+  store: null
 MODULE_TUYA_DEFAULT_A_TS0001:
   human_name: Tuya default 1-gang 🅰 <br> Girier JR-ZDS01 🅰 <br> Zbeacon TS0001
   category: module
