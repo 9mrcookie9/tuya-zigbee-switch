@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "fileName": "tlc_switch-1.1.2-45ed7489.zigbee",
+    "fileVersion": 285356032,
+    "fileSize": 177230,
+    "url": "https://github.com/9mrcookie9/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/SWITCH_MOES_ALL_TS0014_END_DEVICE/tlc_switch-1.1.2-45ed7489.zigbee",
+    "imageType": 43566,
+    "manufacturerCode": 4169,
+    "sha512": "ea32beede2284d1e6f6785bc5620dc857d9ec59a43607c43249e6ca7cfd4aa9fec01d1d6a45236d3ea5cf81c347a642f2c3ebd765b52a4b4a9d6397c3aa1b5d7",
+    "otaHeaderString": "Custom zigbee firmware\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_mrduubod",
+      "mrduubod"
+    ]
+  }
+]

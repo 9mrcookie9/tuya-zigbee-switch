@@ -28,10 +28,14 @@ const definitions = [];
 
 const tuyaModels = [
     "TS0001",
+    "TS0001_switch_module_1",
     "TS0002",
+    "TS0002_limited",
     "TS0003",
+    "TS0003_switch_3_gang_with_backlight",
     "TS0003_switch_module_1",
     "TS0004",
+    "TS0014",
     "TS0726_3_gang",
 ];
 
