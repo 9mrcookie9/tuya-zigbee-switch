@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-003feaad.zigbee",
+    "fileName": "tlc_switch-1.1.2-618edea1.zigbee",
     "fileVersion": 285356032,
     "fileSize": 180994,
-    "url": "https://github.com/9mrcookie9/tuya-zigbee-switch/raw/5d905070675ecea53fdcfa3e982b3daca06b5b0b/bin/router/MODULE_TUYA_COMMON_TS0003/tlc_switch-1.1.2-003feaad.zigbee",
+    "url": "https://github.com/9mrcookie9/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_TUYA_COMMON_TS0003/tlc_switch-1.1.2-618edea1.zigbee",
     "imageType": 43642,
     "manufacturerCode": 4417,
-    "sha512": "768289400175258d4f8f14d4d95d6574dc93f6b26c52ed8c77b50d065e7ab203623948159c62e06b119de76b2912cdd1a30f49ce965e2a32a169396d1716b190",
+    "sha512": "4aca89cfbc0a8407acf0d61103f7e84425bbce0676129262c602860ffc81d0df1072636855a0b1864946b0dc644be4ef13ae4db01d3f7ece9af59ea616dcd7df",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3210_aksyshpw",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.2-003feaad-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.2-618edea1-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 180994,
-    "url": "https://github.com/9mrcookie9/tuya-zigbee-switch/raw/5d905070675ecea53fdcfa3e982b3daca06b5b0b/bin/router/MODULE_TUYA_COMMON_TS0003/tlc_switch-1.1.2-003feaad-from_tuya.zigbee",
-    "imageType": 54179,
+    "url": "https://github.com/9mrcookie9/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_TUYA_COMMON_TS0003/tlc_switch-1.1.2-618edea1-from_tuya.zigbee",
+    "imageType": 2050,
     "manufacturerCode": 4417,
-    "sha512": "9afc92b98bddbfd02cf4002ac77fa1477a6976a6d3562fd3498a6b355ec0465b0c0ac95c0c04f235d36bba5303d2cbc68778debb3b61a67220a13125eb00c15d",
+    "sha512": "ac1e49ad876c27f311aea0409c3344cf13d5a03f8223998a49aaeb202b768fafdaaeff7fcb5900d2cec49778fc50473867a6ae551bb2e42b04f4f6d44694b101",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3210_aksyshpw",
