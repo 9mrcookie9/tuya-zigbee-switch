@@ -1956,7 +1956,7 @@ MODULE_TUYA_COMMON_TS0003:
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: aksyshpw;TS0003-C;BB1u;LD7;SD2u;RC0;SC3u;RB4;SC2u;RB5;
+  config_str: aksyshpw;TS0003-C;BB1u;LD7;SC2u;RC0;SC3u;RB4;SD2u;RB5;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
@@ -1965,7 +1965,7 @@ MODULE_TUYA_COMMON_TS0003:
   firmware_image_type: 43642
   build: yes
   status: in_progress
-  info: Needs relay pinout confirmation (C0, B4, B5 suspected)
+  info: Supported
   threads: null
   store: null
 # MODULE_TUYA_DEFAULT_A_TS0001:
