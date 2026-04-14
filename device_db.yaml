@@ -1942,7 +1942,7 @@
 #   threads: https://github.com/romasku/tuya-zigbee-switch/issues/32
 #   store: null
 MODULE_TUYA_COMMON_TS0003:
-  human_name: Tuya common 3-gang
+  human_name: Tuya common 3-gang <br> OXT 3CH
   category: module
   power: mains
   neutral: required
@@ -1964,10 +1964,11 @@ MODULE_TUYA_COMMON_TS0003:
   stock_image_type: 2050
   firmware_image_type: 43642
   build: yes
-  status: in_progress
+  status: fully_supported
   info: Supported
   threads: null
-  store: null
+  store: 
+   - https://psmart.pl/pl/p/Modul-OXT-Mini-przekaznik-3-Obwody-ZigBee-TUYA/1561
 # MODULE_TUYA_DEFAULT_A_TS0001:
 #   human_name: Tuya default 1-gang 🅰 <br> Girier JR-ZDS01 🅰 <br> Zbeacon TS0001
 #   category: module
